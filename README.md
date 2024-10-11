@@ -1,16 +1,20 @@
-### Hi there 👋
+Hello, I'm Amr Ahmed! 👋
+Welcome to my GitHub Profile!
 
-<!--
-**Amr2054/Amr2054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently pursuing a degree in Systems & Biomedical Engineering and have a passion for AI, biomedical engineering, and machine learning. Here, you’ll find projects that reflect my interest in software engineering, medical applications, and AI-driven solutions.
 
-Here are some ideas to get you started:
+🌱 What I'm Learning:
+U-Net architectures for image segmentation
+Biomedical engineering applications with AI
+Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My Skills:
+Programming Languages: Python, C++, Java, JavaScript
+Machine Learning: U-Net, Neural Networks
+Tools: Git, TensorFlow, PyTorch, JavaFX
+
+Feel free to explore my repositories and reach out if you’d like to collaborate!
+
+Thanks for stopping by! 😊
+
+
